@@ -46,6 +46,7 @@ class App extends Component {
       filter: event.target.value
     })
   }
+
   render() {
     return (
       <div className="App">
